@@ -1,0 +1,1 @@
+Franciszek Armiński ur. 2 października 1789 roku w Tymbarku, zm. 19 stycznia 1846 roku w Warszawie. Polski astronom i nauczciel akademicki. Założyciel Obserwatorium Astronomicznego Warszawskiego.
