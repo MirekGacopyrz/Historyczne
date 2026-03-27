@@ -2,7 +2,7 @@
 
 ![Franciszek Armiński - portret](Album_p0218a_v3_-_Franciszek_Armiński.jpeg)
 
-Rodziców stracił w niemowlęctwie, wychowywał go najpierw wuj,
+Rodziców stracił w niemowlęctwie, wychowywał go najpierw wuj [a],
 następnie znalazł dla siebie miejsce w klasztorze pijarów w Krakowie, gdzie ukończył szkoły.
 W Krakowie rozpoczął studia filozoficzne i matematyczne, lecz po roku przeniósł się do Warszawy.
 Pozostając domownikiem kasztelana Aleksandra Linowskiego, rozwijał zainteresowania matematyczne pod kierunkiem Jana Joachima Liveta, profesora Szkoły Aplikacyjnej Artylerii i Inżynierów.
@@ -28,3 +28,4 @@ Prace te, kontynuowane do 1842 z udziałem Jana Baranowskiego i Adama Prażmowsk
 Jest autorem szkicu historycznego o astronomii starożytnej, ogłoszonego drukiem w 1827 w Rocznikach Towarzystwa Warszawskiego Królewskiego Przyjaciół Nauk.
 
 Od 1967 jego imię nosi krater na widocznej stronie Księżyca.
+[a]: J. Bełza, Opis biegu życia Franciszka Armińskiego, założyciela i dyrektora obserwatoryum astronomicznego warszawskiego
