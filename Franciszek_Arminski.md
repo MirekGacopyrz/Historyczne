@@ -1,6 +1,19 @@
-**Franciszek Armiński**  
+**Franciszek Armiński (1789-1846)**  
 
 ![Franciszek Armiński - portret](Album_p0218a_v3_-_Franciszek_Armiński.jpeg)
+
+- 2.10.1789 Tymbark - narodziny
+- 1792 - przenosiny do Śleszowic
+- 1808 - wyjazd do Krakowa
+- 1808 - wyjazd do Warszawy
+- 1811 - wyjazd do Paryża
+- 1815 - powrót do kraju
+- 1817-1831 - profesor Uniwersytetu Warszawskieg
+- 1825 otwarcie obserwatorium
+- 1827 szkic o historii astronomii
+- 1828 i 1829 obserwacje na Łysicy
+- 1830 Connossance des temps
+- 14.01.1846 Śmierć w Warszawie
 
 Rodziców stracił w niemowlęctwie, wychowywał go najpierw wuj [^a],
 następnie znalazł dla siebie miejsce w klasztorze pijarów w Krakowie, gdzie ukończył szkoły.  
